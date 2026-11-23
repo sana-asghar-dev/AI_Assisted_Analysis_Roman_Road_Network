@@ -1,0 +1,4 @@
+cluster_label,cluster_description,n_cities,mean_degree,median_degree,mean_betweenness,median_betweenness,mean_betweenness_weighted,cities
+A,High-Connectivity Hub Cities,2,0.136364,0.136364,0.469953,0.469953,0.26797,Capua; Roma
+B,Intermediate / Regional Connector Cities,24,0.074811,0.068182,0.103357,0.078153,0.129977,Aesernia; Ariminum; Arretium; Asculum Picenum; Beneventum; Bononia; Buxentum; Cremona; Florentia; Genua; Heraclea; Mediolanum; Mutina; Narnia; Neapolis; Patavium; Perusia; Pisae; Placentia; Pompeii; Spoletium; Tarentum; Venusia; Verona
+C,Lower-Connectivity / Peripheral Cities,19,0.039474,0.045455,0.024326,0.01339,0.058362,Alba Pompeia; Ancona; Aquileia; Augusta Taurinorum; Brundisium; Cales; Consentia; Corfinium; Herculaneum; Iguvium; Luceria; Nola; Novaria; Ostia; Parma; Puteoli; Rhegium; Tergeste; Ticinum

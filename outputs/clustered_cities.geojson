@@ -1,0 +1,1175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4869,
+          41.8905
+        ]
+      },
+      "properties": {
+        "pleiades_id": 423025,
+        "latin_name": "Roma",
+        "modern_name": "Roma (Rome)",
+        "region": "Regio I",
+        "degree": 6,
+        "degree_centrality": 0.136364,
+        "betweenness_centrality": 0.484535,
+        "betweenness_centrality_weighted": 0.196617,
+        "degree_rank": 1,
+        "betweenness_rank": 1,
+        "betweenness_weighted_rank": 9,
+        "cluster_id": 2,
+        "cluster_label": "A",
+        "cluster_description": "High-Connectivity Hub Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2569,
+          41.0853
+        ]
+      },
+      "properties": {
+        "pleiades_id": 432754,
+        "latin_name": "Capua",
+        "modern_name": "Santa Maria Capua Vetere",
+        "region": "Regio I",
+        "degree": 6,
+        "degree_centrality": 0.136364,
+        "betweenness_centrality": 0.455371,
+        "betweenness_centrality_weighted": 0.339323,
+        "degree_rank": 1,
+        "betweenness_rank": 2,
+        "betweenness_weighted_rank": 2,
+        "cluster_id": 2,
+        "cluster_label": "A",
+        "cluster_description": "High-Connectivity Hub Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3952,
+          43.7157
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413305,
+        "latin_name": "Pisae",
+        "modern_name": "Pisa",
+        "region": "Regio VII",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.3146,
+        "betweenness_centrality_weighted": 0.082452,
+        "degree_rank": 10,
+        "betweenness_rank": 3,
+        "betweenness_weighted_rank": 21,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9463,
+          44.4073
+        ]
+      },
+      "properties": {
+        "pleiades_id": 157812,
+        "latin_name": "Genua",
+        "modern_name": "Genova (Genoa)",
+        "region": "Regio IX",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.226361,
+        "betweenness_centrality_weighted": 0.075053,
+        "degree_rank": 10,
+        "betweenness_rank": 4,
+        "betweenness_weighted_rank": 24,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3426,
+          44.4938
+        ]
+      },
+      "properties": {
+        "pleiades_id": 109281,
+        "latin_name": "Bononia",
+        "modern_name": "Bologna",
+        "region": "Regio VIII",
+        "degree": 4,
+        "degree_centrality": 0.090909,
+        "betweenness_centrality": 0.224168,
+        "betweenness_centrality_weighted": 0.364693,
+        "degree_rank": 3,
+        "betweenness_rank": 5,
+        "betweenness_weighted_rank": 1,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7824,
+          41.1297
+        ]
+      },
+      "properties": {
+        "pleiades_id": 432721,
+        "latin_name": "Beneventum",
+        "modern_name": "Benevento",
+        "region": "Regio IV",
+        "degree": 4,
+        "degree_centrality": 0.090909,
+        "betweenness_centrality": 0.185624,
+        "betweenness_centrality_weighted": 0.183932,
+        "degree_rank": 3,
+        "betweenness_rank": 6,
+        "betweenness_weighted_rank": 10,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2558,
+          43.7696
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413179,
+        "latin_name": "Florentia",
+        "modern_name": "Firenze (Florence)",
+        "region": "Regio VII",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.172345,
+        "betweenness_centrality_weighted": 0.130021,
+        "degree_rank": 10,
+        "betweenness_rank": 7,
+        "betweenness_weighted_rank": 14,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5296,
+          40.9267
+        ]
+      },
+      "properties": {
+        "pleiades_id": 432860,
+        "latin_name": "Nola",
+        "modern_name": "Nola",
+        "region": "Regio I",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.125687,
+        "betweenness_centrality_weighted": 0.140592,
+        "degree_rank": 27,
+        "betweenness_rank": 8,
+        "betweenness_weighted_rank": 13,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8143,
+          40.9633
+        ]
+      },
+      "properties": {
+        "pleiades_id": 442668,
+        "latin_name": "Venusia",
+        "modern_name": "Venosa",
+        "region": "Regio II",
+        "degree": 4,
+        "degree_centrality": 0.090909,
+        "betweenness_centrality": 0.124841,
+        "betweenness_centrality_weighted": 0.110994,
+        "degree_rank": 3,
+        "betweenness_rank": 9,
+        "betweenness_weighted_rank": 17,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6938,
+          45.0527
+        ]
+      },
+      "properties": {
+        "pleiades_id": 109448,
+        "latin_name": "Placentia",
+        "modern_name": "Piacenza",
+        "region": "Regio VIII",
+        "degree": 4,
+        "degree_centrality": 0.090909,
+        "betweenness_centrality": 0.122044,
+        "betweenness_centrality_weighted": 0.175476,
+        "degree_rank": 3,
+        "betweenness_rank": 10,
+        "betweenness_weighted_rank": 12,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8768,
+          45.4064
+        ]
+      },
+      "properties": {
+        "pleiades_id": 187432,
+        "latin_name": "Patavium",
+        "modern_name": "Padova (Padua)",
+        "region": "Regio X",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.119598,
+        "betweenness_centrality_weighted": 0.088795,
+        "degree_rank": 10,
+        "betweenness_rank": 11,
+        "betweenness_weighted_rank": 19,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4877,
+          40.7509
+        ]
+      },
+      "properties": {
+        "pleiades_id": 432949,
+        "latin_name": "Pompeii",
+        "modern_name": "Pompei",
+        "region": "Regio I",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.111945,
+        "betweenness_centrality_weighted": 0.12685,
+        "degree_rank": 10,
+        "betweenness_rank": 12,
+        "betweenness_weighted_rank": 16,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8825,
+          43.4636
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413215,
+        "latin_name": "Arretium",
+        "modern_name": "Arezzo",
+        "region": "Regio VII",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.101794,
+        "betweenness_centrality_weighted": 0.128964,
+        "degree_rank": 10,
+        "betweenness_rank": 13,
+        "betweenness_weighted_rank": 15,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4874,
+          40.0456
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413066,
+        "latin_name": "Buxentum",
+        "modern_name": "Policastro Bussentino",
+        "region": "Regio III",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.100423,
+        "betweenness_centrality_weighted": 0.098309,
+        "degree_rank": 10,
+        "betweenness_rank": 14,
+        "betweenness_weighted_rank": 18,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2549,
+          40.84
+        ]
+      },
+      "properties": {
+        "pleiades_id": 432744,
+        "latin_name": "Neapolis",
+        "modern_name": "Napoli (Naples)",
+        "region": "Regio I",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.080867,
+        "betweenness_centrality_weighted": 0.081395,
+        "degree_rank": 10,
+        "betweenness_rank": 15,
+        "betweenness_weighted_rank": 22,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.234,
+          41.5943
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413122,
+        "latin_name": "Aesernia",
+        "modern_name": "Isernia",
+        "region": "Regio IV",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.07544,
+        "betweenness_centrality_weighted": 0.288584,
+        "degree_rank": 10,
+        "betweenness_rank": 16,
+        "betweenness_weighted_rank": 5,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674,
+          44.0598
+        ]
+      },
+      "properties": {
+        "pleiades_id": 109373,
+        "latin_name": "Ariminum",
+        "modern_name": "Rimini",
+        "region": "Regio VIII",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.071714,
+        "betweenness_centrality_weighted": 0.263214,
+        "degree_rank": 10,
+        "betweenness_rank": 17,
+        "betweenness_weighted_rank": 6,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5217,
+          42.5177
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413288,
+        "latin_name": "Narnia",
+        "modern_name": "Narni",
+        "region": "Regio VI",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.066596,
+        "betweenness_centrality_weighted": 0.047569,
+        "degree_rank": 10,
+        "betweenness_rank": 18,
+        "betweenness_weighted_rank": 27,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.993,
+          45.4386
+        ]
+      },
+      "properties": {
+        "pleiades_id": 187543,
+        "latin_name": "Verona",
+        "modern_name": "Verona",
+        "region": "Regio X",
+        "degree": 4,
+        "degree_centrality": 0.090909,
+        "betweenness_centrality": 0.064623,
+        "betweenness_centrality_weighted": 0.02537,
+        "degree_rank": 3,
+        "betweenness_rank": 19,
+        "betweenness_weighted_rank": 32,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5791,
+          42.8535
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413036,
+        "latin_name": "Asculum Picenum",
+        "modern_name": "Ascoli Piceno",
+        "region": "Regio V",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.062177,
+        "betweenness_centrality_weighted": 0.313953,
+        "degree_rank": 10,
+        "betweenness_rank": 20,
+        "betweenness_weighted_rank": 3,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0361,
+          44.6985
+        ]
+      },
+      "properties": {
+        "pleiades_id": 157983,
+        "latin_name": "Alba Pompeia",
+        "modern_name": "Alba",
+        "region": "Regio IX",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.058774,
+        "betweenness_centrality_weighted": 0.031712,
+        "degree_rank": 27,
+        "betweenness_rank": 21,
+        "betweenness_weighted_rank": 31,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8414,
+          42.1216
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413063,
+        "latin_name": "Corfinium",
+        "modern_name": "Corfinio",
+        "region": "Regio IV",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.05601,
+        "betweenness_centrality_weighted": 0.298097,
+        "degree_rank": 27,
+        "betweenness_rank": 22,
+        "betweenness_weighted_rank": 4,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7376,
+          42.7342
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413389,
+        "latin_name": "Spoletium",
+        "modern_name": "Spoleto",
+        "region": "Regio VI",
+        "degree": 4,
+        "degree_centrality": 0.090909,
+        "betweenness_centrality": 0.054076,
+        "betweenness_centrality_weighted": 0.086681,
+        "degree_rank": 3,
+        "betweenness_rank": 23,
+        "betweenness_weighted_rank": 20,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9255,
+          44.6462
+        ]
+      },
+      "properties": {
+        "pleiades_id": 109399,
+        "latin_name": "Mutina",
+        "modern_name": "Modena",
+        "region": "Regio VIII",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.052738,
+        "betweenness_centrality_weighted": 0.241015,
+        "degree_rank": 10,
+        "betweenness_rank": 24,
+        "betweenness_weighted_rank": 8,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2291,
+          40.4761
+        ]
+      },
+      "properties": {
+        "pleiades_id": 442648,
+        "latin_name": "Tarentum",
+        "modern_name": "Taranto",
+        "region": "Regio II",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.045455,
+        "betweenness_centrality_weighted": 0.045455,
+        "degree_rank": 10,
+        "betweenness_rank": 25,
+        "betweenness_weighted_rank": 28,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2595,
+          39.2981
+        ]
+      },
+      "properties": {
+        "pleiades_id": 452288,
+        "latin_name": "Consentia",
+        "modern_name": "Cosenza",
+        "region": "Regio III",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.045455,
+        "betweenness_centrality_weighted": 0.045455,
+        "degree_rank": 27,
+        "betweenness_rank": 25,
+        "betweenness_weighted_rank": 28,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3694,
+          45.7695
+        ]
+      },
+      "properties": {
+        "pleiades_id": 187290,
+        "latin_name": "Aquileia",
+        "modern_name": "Aquileia",
+        "region": "Regio X",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.045455,
+        "betweenness_centrality_weighted": 0.045455,
+        "degree_rank": 27,
+        "betweenness_rank": 25,
+        "betweenness_weighted_rank": 28,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1895,
+          45.4642
+        ]
+      },
+      "properties": {
+        "pleiades_id": 138398,
+        "latin_name": "Mediolanum",
+        "modern_name": "Milano (Milan)",
+        "region": "Regio XI",
+        "degree": 4,
+        "degree_centrality": 0.090909,
+        "betweenness_centrality": 0.038125,
+        "betweenness_centrality_weighted": 0.056025,
+        "degree_rank": 3,
+        "betweenness_rank": 28,
+        "betweenness_weighted_rank": 26,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5177,
+          43.6206
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413011,
+        "latin_name": "Ancona",
+        "modern_name": "Ancona",
+        "region": "Regio V",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.036983,
+        "betweenness_centrality_weighted": 0.247357,
+        "degree_rank": 27,
+        "betweenness_rank": 29,
+        "betweenness_weighted_rank": 7,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6739,
+          40.2053
+        ]
+      },
+      "properties": {
+        "pleiades_id": 442611,
+        "latin_name": "Heraclea",
+        "modern_name": "Policoro",
+        "region": "Regio III",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.030233,
+        "betweenness_centrality_weighted": 0.013742,
+        "degree_rank": 10,
+        "betweenness_rank": 30,
+        "betweenness_weighted_rank": 35,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6869,
+          45.0703
+        ]
+      },
+      "properties": {
+        "pleiades_id": 138439,
+        "latin_name": "Augusta Taurinorum",
+        "modern_name": "Torino (Turin)",
+        "region": "Regio XI",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.029175,
+        "betweenness_centrality_weighted": 0.005285,
+        "degree_rank": 27,
+        "betweenness_rank": 31,
+        "betweenness_weighted_rank": 38,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0229,
+          45.1325
+        ]
+      },
+      "properties": {
+        "pleiades_id": 187342,
+        "latin_name": "Cremona",
+        "modern_name": "Cremona",
+        "region": "Regio X",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.026273,
+        "betweenness_centrality_weighted": 0.016913,
+        "degree_rank": 10,
+        "betweenness_rank": 32,
+        "betweenness_weighted_rank": 33,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5751,
+          43.3508
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413222,
+        "latin_name": "Iguvium",
+        "modern_name": "Gubbio",
+        "region": "Regio VI",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.017871,
+        "betweenness_centrality_weighted": 0.006342,
+        "degree_rank": 27,
+        "betweenness_rank": 33,
+        "betweenness_weighted_rank": 37,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6196,
+          45.4463
+        ]
+      },
+      "properties": {
+        "pleiades_id": 138514,
+        "latin_name": "Novaria",
+        "modern_name": "Novara",
+        "region": "Regio XI",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.013742,
+        "betweenness_centrality_weighted": 0.016913,
+        "degree_rank": 27,
+        "betweenness_rank": 34,
+        "betweenness_weighted_rank": 33,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.158,
+          45.1847
+        ]
+      },
+      "properties": {
+        "pleiades_id": 138463,
+        "latin_name": "Ticinum",
+        "modern_name": "Pavia",
+        "region": "Regio XI",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.01339,
+        "betweenness_centrality_weighted": 0.079281,
+        "degree_rank": 27,
+        "betweenness_rank": 35,
+        "betweenness_weighted_rank": 23,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3267,
+          44.8015
+        ]
+      },
+      "properties": {
+        "pleiades_id": 109427,
+        "latin_name": "Parma",
+        "modern_name": "Parma",
+        "region": "Regio VIII",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.01013,
+        "betweenness_centrality_weighted": 0.179704,
+        "degree_rank": 27,
+        "betweenness_rank": 36,
+        "betweenness_weighted_rank": 11,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3483,
+          40.806
+        ]
+      },
+      "properties": {
+        "pleiades_id": 432808,
+        "latin_name": "Herculaneum",
+        "modern_name": "Ercolano",
+        "region": "Regio I",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.009514,
+        "betweenness_centrality_weighted": 0.012685,
+        "degree_rank": 27,
+        "betweenness_rank": 37,
+        "betweenness_weighted_rank": 36,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3883,
+          43.1122
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413294,
+        "latin_name": "Perusia",
+        "modern_name": "Perugia",
+        "region": "Regio VII",
+        "degree": 3,
+        "degree_centrality": 0.068182,
+        "betweenness_centrality": 0.008515,
+        "betweenness_centrality_weighted": 0.073996,
+        "degree_rank": 10,
+        "betweenness_rank": 38,
+        "betweenness_weighted_rank": 25,
+        "cluster_id": 0,
+        "cluster_label": "B",
+        "cluster_description": "Intermediate / Regional Connector Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.644,
+          38.1106
+        ]
+      },
+      "properties": {
+        "pleiades_id": 452310,
+        "latin_name": "Rhegium",
+        "modern_name": "Reggio Calabria",
+        "region": "Regio III",
+        "degree": 1,
+        "degree_centrality": 0.022727,
+        "betweenness_centrality": 0.0,
+        "betweenness_centrality_weighted": 0.0,
+        "degree_rank": 41,
+        "betweenness_rank": 39,
+        "betweenness_weighted_rank": 39,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2898,
+          41.7568
+        ]
+      },
+      "properties": {
+        "pleiades_id": 422995,
+        "latin_name": "Ostia",
+        "modern_name": "Ostia Antica",
+        "region": "Regio I",
+        "degree": 1,
+        "degree_centrality": 0.022727,
+        "betweenness_centrality": 0.0,
+        "betweenness_centrality_weighted": 0.0,
+        "degree_rank": 41,
+        "betweenness_rank": 39,
+        "betweenness_weighted_rank": 39,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1274,
+          40.8261
+        ]
+      },
+      "properties": {
+        "pleiades_id": 432975,
+        "latin_name": "Puteoli",
+        "modern_name": "Pozzuoli",
+        "region": "Regio I",
+        "degree": 1,
+        "degree_centrality": 0.022727,
+        "betweenness_centrality": 0.0,
+        "betweenness_centrality_weighted": 0.0,
+        "degree_rank": 41,
+        "betweenness_rank": 39,
+        "betweenness_weighted_rank": 39,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9457,
+          40.6328
+        ]
+      },
+      "properties": {
+        "pleiades_id": 442582,
+        "latin_name": "Brundisium",
+        "modern_name": "Brindisi",
+        "region": "Regio II",
+        "degree": 1,
+        "degree_centrality": 0.022727,
+        "betweenness_centrality": 0.0,
+        "betweenness_centrality_weighted": 0.0,
+        "degree_rank": 41,
+        "betweenness_rank": 39,
+        "betweenness_weighted_rank": 39,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3377,
+          41.5063
+        ]
+      },
+      "properties": {
+        "pleiades_id": 442625,
+        "latin_name": "Luceria",
+        "modern_name": "Lucera",
+        "region": "Regio II",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.0,
+        "betweenness_centrality_weighted": 0.0,
+        "degree_rank": 27,
+        "betweenness_rank": 39,
+        "betweenness_weighted_rank": 39,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7766,
+          45.6495
+        ]
+      },
+      "properties": {
+        "pleiades_id": 187488,
+        "latin_name": "Tergeste",
+        "modern_name": "Trieste",
+        "region": "Regio X",
+        "degree": 1,
+        "degree_centrality": 0.022727,
+        "betweenness_centrality": 0.0,
+        "betweenness_centrality_weighted": 0.0,
+        "degree_rank": 41,
+        "betweenness_rank": 39,
+        "betweenness_weighted_rank": 39,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0677,
+          41.2014
+        ]
+      },
+      "properties": {
+        "pleiades_id": 413148,
+        "latin_name": "Cales",
+        "modern_name": "Calvi Risorta",
+        "region": "Regio I",
+        "degree": 2,
+        "degree_centrality": 0.045455,
+        "betweenness_centrality": 0.0,
+        "betweenness_centrality_weighted": 0.0,
+        "degree_rank": 27,
+        "betweenness_rank": 39,
+        "betweenness_weighted_rank": 39,
+        "cluster_id": 1,
+        "cluster_label": "C",
+        "cluster_description": "Lower-Connectivity / Peripheral Cities"
+      }
+    }
+  ]
+}

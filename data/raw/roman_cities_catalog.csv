@@ -1,0 +1,46 @@
+pleiades_id,latin_name,modern_name,region,region_label,lon,lat,notes
+423025,Roma,Roma (Rome),Regio I,Latium et Campania,12.4869,41.8905,Capital of the Roman Empire; supreme hub of all Italian road networks. Origin point of the Milliarium Aureum (Golden Milestone).
+422995,Ostia,Ostia Antica,Regio I,Latium et Campania,12.2898,41.7568,Principal harbour of Rome at the Tiber mouth; key node for maritime-to-terrestrial traffic transfer. Via Ostiensis terminus.
+432754,Capua,Santa Maria Capua Vetere,Regio I,Latium et Campania,14.2569,41.0853,Most important city of Campania; major junction on the Via Appia and Via Latina; key military and commercial hub.
+432744,Neapolis,Napoli (Naples),Regio I,Latium et Campania,14.2549,40.84,Largest Greek-founded city in Campania; important cultural and commercial centre. Connected to Capua and Puteoli by road.
+432975,Puteoli,Pozzuoli,Regio I,Latium et Campania,14.1274,40.8261,Major port on the Bay of Naples; chief harbour for eastern Mediterranean trade until Ostia expanded under Claudius.
+432808,Herculaneum,Ercolano,Regio I,Latium et Campania,14.3483,40.806,Prosperous Campanian coastal town; destroyed 79 CE (Vesuvius). Included as representative Campanian road-network node.
+432860,Nola,Nola,Regio I,Latium et Campania,14.5296,40.9267,Ancient Oscan and Roman colony; important road junction east of Neapolis linking Campania to Apulia.
+432949,Pompeii,Pompei,Regio I,Latium et Campania,14.4877,40.7509,Prosperous Roman town destroyed 79 CE; well-documented road connections along the Campanian coastal route.
+442582,Brundisium,Brindisi,Regio II,Apulia et Calabria,17.9457,40.6328,Terminus of the Via Appia and Via Traiana; primary embarkation point for Greece and the Eastern Mediterranean. Key strategic port.
+442648,Tarentum,Taranto,Regio II,Apulia et Calabria,17.2291,40.4761,Major Greek colony turned Roman municipium; important harbour on the Gulf of Taranto. Junction of routes through southern Italy.
+442668,Venusia,Venosa,Regio II,Apulia et Calabria,15.8143,40.9633,Latin colony on Via Appia; strategic crossroads between Apulia and Lucania. Birthplace of Horace.
+442625,Luceria,Lucera,Regio II,Apulia et Calabria,15.3377,41.5063,Important Latin colony in northern Apulia; road junction on routes through the Apennine passes toward the Adriatic.
+452310,Rhegium,Reggio Calabria,Regio III,Lucania et Bruttii,15.644,38.1106,Greek colony at the tip of Italy; southern terminus of the Via Popilia; embarkation point for Sicily. Extreme southern road endpoint.
+452288,Consentia,Cosenza,Regio III,Lucania et Bruttii,16.2595,39.2981,Chief Bruttian city; important road junction on the Via Popilia through the toe of Italy toward Rhegium.
+442611,Heraclea,Policoro,Regio III,Lucania et Bruttii,16.6739,40.2053,Greek and Lucanian city on the Ionian coast; junction linking coastal Lucanian route with interior roads.
+432721,Beneventum,Benevento,Regio IV,Samnium,14.7824,41.1297,"Critical road junction: meeting point of Via Appia, Via Traiana, and Via Latina. Major Samnite and Roman colony."
+413122,Aesernia,Isernia,Regio IV,Samnium,14.234,41.5943,Latin colony in Samnium; important strategic garrison point controlling interior Apennine routes.
+413011,Ancona,Ancona,Regio V,Picenum,13.5177,43.6206,Major Adriatic port; northern terminus of the Via Flaminia. Junction linking Adriatic coastal traffic to interior.
+413036,Asculum Picenum,Ascoli Piceno,Regio V,Picenum,13.5791,42.8535,Principal city of Picenum; road junction on routes connecting the Adriatic coast to the Apennine interior.
+413389,Spoletium,Spoleto,Regio VI,Umbria,12.7376,42.7342,Key colony on the Via Flaminia between Rome and Ariminum. Important military road junction controlling the Apennine pass.
+413288,Narnia,Narni,Regio VI,Umbria,12.5217,42.5177,Latin colony on the Via Flaminia immediately north of Rome; first major stop on the road north.
+413222,Iguvium,Gubbio,Regio VI,Umbria,12.5751,43.3508,Important Umbrian city; road junction connecting the Via Flaminia to secondary routes through northern Umbria.
+413179,Florentia,Firenze (Florence),Regio VII,Etruria,11.2558,43.7696,Roman colony at a key Arno river crossing; road junction connecting Via Cassia and Via Flaminia corridors.
+413215,Arretium,Arezzo,Regio VII,Etruria,11.8825,43.4636,Major Etruscan and Roman city; junction on the Via Cassia with roads east to Umbrrian towns. Important ceramic production centre.
+413294,Perusia,Perugia,Regio VII,Etruria,12.3883,43.1122,Major Etruscan city and Roman municipium; road junction linking Etruria to Umbria across the Tiber valley.
+413305,Pisae,Pisa,Regio VII,Etruria,10.3952,43.7157,Coastal Etruscan and Roman city; important harbour at the Arno mouth on the Via Aurelia corridor.
+109281,Bononia,Bologna,Regio VIII,Aemilia,11.3426,44.4938,Major junction on the Via Aemilia; principal road city of Cisalpine Gaul crossing the Apennines toward Etruria.
+109399,Mutina,Modena,Regio VIII,Aemilia,10.9255,44.6462,Latin colony on the Via Aemilia; key road centre in the Po plain between Bononia and Placentia.
+109427,Parma,Parma,Regio VIII,Aemilia,10.3267,44.8015,Latin colony on the Via Aemilia; important road and commercial node in the Po plain.
+109448,Placentia,Piacenza,Regio VIII,Aemilia,9.6938,45.0527,"Latin colony at the terminus of the Via Aemilia on the Po; major junction connecting to Mediolanum, Genua, and Cremona."
+109373,Ariminum,Rimini,Regio VIII,Aemilia,12.5674,44.0598,Latin colony at the junction of Via Flaminia (from Rome) and Via Aemilia (north-west); strategic road node on the Adriatic.
+157812,Genua,Genova (Genoa),Regio IX,Liguria,8.9463,44.4073,Major Ligurian port; junction of coastal Via Aurelia and interior routes over the Apennines toward Placentia (Via Postumia).
+157983,Alba Pompeia,Alba,Regio IX,Liguria,8.0361,44.6985,Ligurian Roman colony; road junction in the Tanaro valley connecting the Po plain with Alpine routes.
+187290,Aquileia,Aquileia,Regio X,Venetia et Histria,13.3694,45.7695,"Critical northeastern gateway of Italy; major road hub connecting Italy to the Balkans, Danube frontier, and the Amber Road."
+187543,Verona,Verona,Regio X,Venetia et Histria,10.993,45.4386,Major road junction on the Adige; connecting Via Postumia with routes north through the Brenner Pass toward Raetia.
+187432,Patavium,Padova (Padua),Regio X,Venetia et Histria,11.8768,45.4064,Wealthy Venetian city on the Via Postumia; one of the most prosperous cities in Roman Italy.
+187488,Tergeste,Trieste,Regio X,Venetia et Histria,13.7766,45.6495,Important Adriatic port and road junction near Aquileia; gateway to Histria and the Dalmatian coast.
+187342,Cremona,Cremona,Regio X,Venetia et Histria,10.0229,45.1325,Latin colony on the Po; road junction on Via Postumia linking Genua to Aquileia through the Po plain.
+138398,Mediolanum,Milano (Milan),Regio XI,Transpadana,9.1895,45.4642,Capital of Transpadana; supreme road hub of northern Italy connecting routes to all Alpine passes and major Po plain cities. Later imperial capital of the West.
+138439,Augusta Taurinorum,Torino (Turin),Regio XI,Transpadana,7.6869,45.0703,Roman colony at the foot of the Alps; road junction controlling Mont Cenis and Little St. Bernard passes into Gaul.
+138463,Ticinum,Pavia,Regio XI,Transpadana,9.158,45.1847,Road junction on the Ticino river; connecting Mediolanum with Placentia and routes south across the Apennines.
+138514,Novaria,Novara,Regio XI,Transpadana,8.6196,45.4463,Road junction between Mediolanum and Augusta Taurinorum; controlling western Transpadana.
+413063,Corfinium,Corfinio,Regio IV,Samnium,13.8414,42.1216,Capital of the Italian allies during the Social War (91–87 BCE); interior road junction in the central Apennines. Pleiades ID: 413063.
+413148,Cales,Calvi Risorta,Regio I,Latium et Campania,14.0677,41.2014,Important Latin colony on the Via Latina corridor between Rome and Capua; wine-producing region.
+413066,Buxentum,Policastro Bussentino,Regio III,Lucania et Bruttii,15.4874,40.0456,Latin colony on the Tyrrhenian coast of Lucania; road node on the coastal route between Campania and Bruttium.

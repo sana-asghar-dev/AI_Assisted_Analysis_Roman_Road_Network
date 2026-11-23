@@ -1,0 +1,11 @@
+,Latin Name,Modern Name,Region,Betweenness Centrality,Degree Centrality,Links,Cluster
+1,Roma,Roma (Rome),Regio I,0.484535,0.136364,6,A
+2,Capua,Santa Maria Capua Vetere,Regio I,0.455371,0.136364,6,A
+3,Pisae,Pisa,Regio VII,0.3146,0.068182,3,B
+4,Genua,Genova (Genoa),Regio IX,0.226361,0.068182,3,B
+5,Bononia,Bologna,Regio VIII,0.224168,0.090909,4,B
+6,Beneventum,Benevento,Regio IV,0.185624,0.090909,4,B
+7,Florentia,Firenze (Florence),Regio VII,0.172345,0.068182,3,B
+8,Nola,Nola,Regio I,0.125687,0.045455,2,C
+9,Venusia,Venosa,Regio II,0.124841,0.090909,4,B
+10,Placentia,Piacenza,Regio VIII,0.122044,0.090909,4,B

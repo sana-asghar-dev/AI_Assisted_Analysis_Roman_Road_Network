@@ -1,0 +1,1989 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4869,
+            41.8905
+          ],
+          [
+            13.3719,
+            41.4879
+          ],
+          [
+            14.2569,
+            41.0853
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 1,
+        "road_name": "Via Appia",
+        "source_city": "Roma",
+        "target_city": "Capua",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 200.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4869,
+            41.8905
+          ],
+          [
+            13.2773,
+            41.54595
+          ],
+          [
+            14.0677,
+            41.2014
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 2,
+        "road_name": "Via Latina",
+        "source_city": "Roma",
+        "target_city": "Cales",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 175.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0677,
+            41.2014
+          ],
+          [
+            14.1623,
+            41.14335
+          ],
+          [
+            14.2569,
+            41.0853
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 3,
+        "road_name": "Via Latina",
+        "source_city": "Cales",
+        "target_city": "Capua",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 15.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2569,
+            41.0853
+          ],
+          [
+            14.51965,
+            41.1075
+          ],
+          [
+            14.7824,
+            41.1297
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 4,
+        "road_name": "Via Appia",
+        "source_city": "Capua",
+        "target_city": "Beneventum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 55.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.7824,
+            41.1297
+          ],
+          [
+            15.29835,
+            41.0465
+          ],
+          [
+            15.8143,
+            40.9633
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 5,
+        "road_name": "Via Appia",
+        "source_city": "Beneventum",
+        "target_city": "Venusia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 105.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.8143,
+            40.9633
+          ],
+          [
+            16.5217,
+            40.7197
+          ],
+          [
+            17.2291,
+            40.4761
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 6,
+        "road_name": "Via Appia",
+        "source_city": "Venusia",
+        "target_city": "Tarentum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 140.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.2291,
+            40.4761
+          ],
+          [
+            17.5874,
+            40.55445
+          ],
+          [
+            17.9457,
+            40.6328
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 7,
+        "road_name": "Via Appia",
+        "source_city": "Tarentum",
+        "target_city": "Brundisium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 75.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.7824,
+            41.1297
+          ],
+          [
+            15.06005,
+            41.318
+          ],
+          [
+            15.3377,
+            41.5063
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 8,
+        "road_name": "Via Traiana",
+        "source_city": "Beneventum",
+        "target_city": "Luceria",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 80.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.3377,
+            41.5063
+          ],
+          [
+            15.576,
+            41.2348
+          ],
+          [
+            15.8143,
+            40.9633
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 9,
+        "road_name": "Via Traiana / Apulia Link",
+        "source_city": "Luceria",
+        "target_city": "Venusia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 85.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4869,
+            41.8905
+          ],
+          [
+            12.38835,
+            41.82365
+          ],
+          [
+            12.2898,
+            41.7568
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 10,
+        "road_name": "Via Ostiensis",
+        "source_city": "Roma",
+        "target_city": "Ostia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 28.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2569,
+            41.0853
+          ],
+          [
+            14.39325,
+            41.006
+          ],
+          [
+            14.5296,
+            40.9267
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 11,
+        "road_name": "Via Campana",
+        "source_city": "Capua",
+        "target_city": "Nola",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 30.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2569,
+            41.0853
+          ],
+          [
+            14.2559,
+            40.96265
+          ],
+          [
+            14.2549,
+            40.84
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 12,
+        "road_name": "Via Atellana",
+        "source_city": "Capua",
+        "target_city": "Neapolis",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 28.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2549,
+            40.84
+          ],
+          [
+            14.19115,
+            40.83305
+          ],
+          [
+            14.1274,
+            40.8261
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 13,
+        "road_name": "Via Puteolana",
+        "source_city": "Neapolis",
+        "target_city": "Puteoli",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 12.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2549,
+            40.84
+          ],
+          [
+            14.3016,
+            40.823
+          ],
+          [
+            14.3483,
+            40.806
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 14,
+        "road_name": "Via Herculanensis",
+        "source_city": "Neapolis",
+        "target_city": "Herculaneum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 10.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3483,
+            40.806
+          ],
+          [
+            14.418,
+            40.77845
+          ],
+          [
+            14.4877,
+            40.7509
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 15,
+        "road_name": "Via Domitiana / Coast",
+        "source_city": "Herculaneum",
+        "target_city": "Pompeii",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 15.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5296,
+            40.9267
+          ],
+          [
+            14.50865,
+            40.8388
+          ],
+          [
+            14.4877,
+            40.7509
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 16,
+        "road_name": "Via Nucerina Link",
+        "source_city": "Nola",
+        "target_city": "Pompeii",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 22.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4877,
+            40.7509
+          ],
+          [
+            14.98755,
+            40.39825
+          ],
+          [
+            15.4874,
+            40.0456
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 17,
+        "road_name": "Via Popilia",
+        "source_city": "Pompeii",
+        "target_city": "Buxentum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 110.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.4874,
+            40.0456
+          ],
+          [
+            15.87345,
+            39.67185
+          ],
+          [
+            16.2595,
+            39.2981
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 18,
+        "road_name": "Via Popilia",
+        "source_city": "Buxentum",
+        "target_city": "Consentia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 115.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.2595,
+            39.2981
+          ],
+          [
+            15.95175,
+            38.70435
+          ],
+          [
+            15.644,
+            38.1106
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 19,
+        "road_name": "Via Popilia",
+        "source_city": "Consentia",
+        "target_city": "Rhegium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 155.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.2291,
+            40.4761
+          ],
+          [
+            16.9515,
+            40.3407
+          ],
+          [
+            16.6739,
+            40.2053
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 20,
+        "road_name": "Via Ionia",
+        "source_city": "Tarentum",
+        "target_city": "Heraclea",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 60.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.6739,
+            40.2053
+          ],
+          [
+            16.08065,
+            40.12545
+          ],
+          [
+            15.4874,
+            40.0456
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 21,
+        "road_name": "Lucania Trans-Apennine",
+        "source_city": "Heraclea",
+        "target_city": "Buxentum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 105.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.6739,
+            40.2053
+          ],
+          [
+            16.2441,
+            40.5843
+          ],
+          [
+            15.8143,
+            40.9633
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 22,
+        "road_name": "Bradano Corridor",
+        "source_city": "Heraclea",
+        "target_city": "Venusia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 110.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2569,
+            41.0853
+          ],
+          [
+            14.24545,
+            41.3398
+          ],
+          [
+            14.234,
+            41.5943
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 23,
+        "road_name": "Via Latina Branch",
+        "source_city": "Capua",
+        "target_city": "Aesernia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 70.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.234,
+            41.5943
+          ],
+          [
+            14.5082,
+            41.362
+          ],
+          [
+            14.7824,
+            41.1297
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 24,
+        "road_name": "Via Minucia",
+        "source_city": "Aesernia",
+        "target_city": "Beneventum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 65.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.234,
+            41.5943
+          ],
+          [
+            14.0377,
+            41.85795
+          ],
+          [
+            13.8414,
+            42.1216
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 25,
+        "road_name": "Via Valeria Branch",
+        "source_city": "Aesernia",
+        "target_city": "Corfinium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 85.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8414,
+            42.1216
+          ],
+          [
+            13.71025,
+            42.48755
+          ],
+          [
+            13.5791,
+            42.8535
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 26,
+        "road_name": "Via Salaria Link",
+        "source_city": "Corfinium",
+        "target_city": "Asculum Picenum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 100.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4869,
+            41.8905
+          ],
+          [
+            12.5043,
+            42.2041
+          ],
+          [
+            12.5217,
+            42.5177
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 27,
+        "road_name": "Via Flaminia",
+        "source_city": "Roma",
+        "target_city": "Narnia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 85.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5217,
+            42.5177
+          ],
+          [
+            12.62965,
+            42.62595
+          ],
+          [
+            12.7376,
+            42.7342
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 28,
+        "road_name": "Via Flaminia",
+        "source_city": "Narnia",
+        "target_city": "Spoletium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 30.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7376,
+            42.7342
+          ],
+          [
+            12.65635,
+            43.0425
+          ],
+          [
+            12.5751,
+            43.3508
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 29,
+        "road_name": "Via Flaminia",
+        "source_city": "Spoletium",
+        "target_city": "Iguvium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 80.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5751,
+            43.3508
+          ],
+          [
+            12.57125,
+            43.7053
+          ],
+          [
+            12.5674,
+            44.0598
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 30,
+        "road_name": "Via Flaminia",
+        "source_city": "Iguvium",
+        "target_city": "Ariminum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 105.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5217,
+            42.5177
+          ],
+          [
+            12.455,
+            42.81495
+          ],
+          [
+            12.3883,
+            43.1122
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 31,
+        "road_name": "Via Tiberina Link",
+        "source_city": "Narnia",
+        "target_city": "Perusia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 70.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7376,
+            42.7342
+          ],
+          [
+            13.15835,
+            42.79385
+          ],
+          [
+            13.5791,
+            42.8535
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 32,
+        "road_name": "Apennine Pass",
+        "source_city": "Spoletium",
+        "target_city": "Asculum Picenum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 90.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5791,
+            42.8535
+          ],
+          [
+            13.5484,
+            43.23705
+          ],
+          [
+            13.5177,
+            43.6206
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 33,
+        "road_name": "Via Salaria Terminus",
+        "source_city": "Asculum Picenum",
+        "target_city": "Ancona",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 95.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5177,
+            43.6206
+          ],
+          [
+            13.04255,
+            43.8402
+          ],
+          [
+            12.5674,
+            44.0598
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 34,
+        "road_name": "Via Flaminia Coastal",
+        "source_city": "Ancona",
+        "target_city": "Ariminum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 95.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4869,
+            41.8905
+          ],
+          [
+            12.1847,
+            42.67705
+          ],
+          [
+            11.8825,
+            43.4636
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 35,
+        "road_name": "Via Cassia",
+        "source_city": "Roma",
+        "target_city": "Arretium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 210.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3883,
+            43.1122
+          ],
+          [
+            12.1354,
+            43.2879
+          ],
+          [
+            11.8825,
+            43.4636
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 36,
+        "road_name": "Trasimene Corridor",
+        "source_city": "Perusia",
+        "target_city": "Arretium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 60.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3883,
+            43.1122
+          ],
+          [
+            12.56295,
+            42.9232
+          ],
+          [
+            12.7376,
+            42.7342
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 37,
+        "road_name": "Umbria Transversal",
+        "source_city": "Perusia",
+        "target_city": "Spoletium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 65.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.8825,
+            43.4636
+          ],
+          [
+            11.56915,
+            43.6166
+          ],
+          [
+            11.2558,
+            43.7696
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 38,
+        "road_name": "Via Cassia",
+        "source_city": "Arretium",
+        "target_city": "Florentia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 75.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2558,
+            43.7696
+          ],
+          [
+            11.2992,
+            44.1317
+          ],
+          [
+            11.3426,
+            44.4938
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 39,
+        "road_name": "Via Flaminia Militare",
+        "source_city": "Florentia",
+        "target_city": "Bononia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 105.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2558,
+            43.7696
+          ],
+          [
+            10.8255,
+            43.74265
+          ],
+          [
+            10.3952,
+            43.7157
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 40,
+        "road_name": "Via Pisana / Arno",
+        "source_city": "Florentia",
+        "target_city": "Pisae",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 75.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4869,
+            41.8905
+          ],
+          [
+            11.44105,
+            42.8031
+          ],
+          [
+            10.3952,
+            43.7157
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 41,
+        "road_name": "Via Aurelia",
+        "source_city": "Roma",
+        "target_city": "Pisae",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 310.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3952,
+            43.7157
+          ],
+          [
+            9.67075,
+            44.0615
+          ],
+          [
+            8.9463,
+            44.4073
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 42,
+        "road_name": "Via Aurelia",
+        "source_city": "Pisae",
+        "target_city": "Genua",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 145.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5674,
+            44.0598
+          ],
+          [
+            11.955,
+            44.2768
+          ],
+          [
+            11.3426,
+            44.4938
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 43,
+        "road_name": "Via Aemilia",
+        "source_city": "Ariminum",
+        "target_city": "Bononia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 115.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3426,
+            44.4938
+          ],
+          [
+            11.13405,
+            44.57
+          ],
+          [
+            10.9255,
+            44.6462
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 44,
+        "road_name": "Via Aemilia",
+        "source_city": "Bononia",
+        "target_city": "Mutina",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 40.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.9255,
+            44.6462
+          ],
+          [
+            10.6261,
+            44.72385
+          ],
+          [
+            10.3267,
+            44.8015
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 45,
+        "road_name": "Via Aemilia",
+        "source_city": "Mutina",
+        "target_city": "Parma",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 55.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3267,
+            44.8015
+          ],
+          [
+            10.01025,
+            44.9271
+          ],
+          [
+            9.6938,
+            45.0527
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 46,
+        "road_name": "Via Aemilia",
+        "source_city": "Parma",
+        "target_city": "Placentia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 65.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9463,
+            44.4073
+          ],
+          [
+            9.32005,
+            44.73
+          ],
+          [
+            9.6938,
+            45.0527
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 47,
+        "road_name": "Via Postumia",
+        "source_city": "Genua",
+        "target_city": "Placentia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 125.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9463,
+            44.4073
+          ],
+          [
+            8.4912,
+            44.5529
+          ],
+          [
+            8.0361,
+            44.6985
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 48,
+        "road_name": "Via Aemilia Scauri",
+        "source_city": "Genua",
+        "target_city": "Alba Pompeia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 90.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0361,
+            44.6985
+          ],
+          [
+            7.8615,
+            44.8844
+          ],
+          [
+            7.6869,
+            45.0703
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 49,
+        "road_name": "Tanaro Corridor",
+        "source_city": "Alba Pompeia",
+        "target_city": "Augusta Taurinorum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 60.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6869,
+            45.0703
+          ],
+          [
+            8.15325,
+            45.2583
+          ],
+          [
+            8.6196,
+            45.4463
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 50,
+        "road_name": "Via Gallica",
+        "source_city": "Augusta Taurinorum",
+        "target_city": "Novaria",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 90.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6196,
+            45.4463
+          ],
+          [
+            8.90455,
+            45.45525
+          ],
+          [
+            9.1895,
+            45.4642
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 51,
+        "road_name": "Via Gallica",
+        "source_city": "Novaria",
+        "target_city": "Mediolanum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 45.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1895,
+            45.4642
+          ],
+          [
+            9.17375,
+            45.32445
+          ],
+          [
+            9.158,
+            45.1847
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 52,
+        "road_name": "Via Regina Branch",
+        "source_city": "Mediolanum",
+        "target_city": "Ticinum",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 35.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.158,
+            45.1847
+          ],
+          [
+            9.4259,
+            45.1187
+          ],
+          [
+            9.6938,
+            45.0527
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 53,
+        "road_name": "Po Valley Link",
+        "source_city": "Ticinum",
+        "target_city": "Placentia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 45.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6938,
+            45.0527
+          ],
+          [
+            9.85835,
+            45.0926
+          ],
+          [
+            10.0229,
+            45.1325
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 54,
+        "road_name": "Via Postumia",
+        "source_city": "Placentia",
+        "target_city": "Cremona",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 35.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0229,
+            45.1325
+          ],
+          [
+            10.50795,
+            45.28555
+          ],
+          [
+            10.993,
+            45.4386
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 55,
+        "road_name": "Via Postumia",
+        "source_city": "Cremona",
+        "target_city": "Verona",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 70.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.9255,
+            44.6462
+          ],
+          [
+            10.95925,
+            45.0424
+          ],
+          [
+            10.993,
+            45.4386
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 56,
+        "road_name": "Via Claudia Augusta Branch",
+        "source_city": "Mutina",
+        "target_city": "Verona",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 90.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3426,
+            44.4938
+          ],
+          [
+            11.6097,
+            44.9501
+          ],
+          [
+            11.8768,
+            45.4064
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 57,
+        "road_name": "Via Annia Link",
+        "source_city": "Bononia",
+        "target_city": "Patavium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 110.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.993,
+            45.4386
+          ],
+          [
+            11.4349,
+            45.4225
+          ],
+          [
+            11.8768,
+            45.4064
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 58,
+        "road_name": "Via Postumia",
+        "source_city": "Verona",
+        "target_city": "Patavium",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 85.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.8768,
+            45.4064
+          ],
+          [
+            12.6231,
+            45.58795
+          ],
+          [
+            13.3694,
+            45.7695
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 59,
+        "road_name": "Via Annia",
+        "source_city": "Patavium",
+        "target_city": "Aquileia",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 120.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3694,
+            45.7695
+          ],
+          [
+            13.573,
+            45.7095
+          ],
+          [
+            13.7766,
+            45.6495
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 60,
+        "road_name": "Via Gemina",
+        "source_city": "Aquileia",
+        "target_city": "Tergeste",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 45.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1895,
+            45.4642
+          ],
+          [
+            9.6062,
+            45.29835
+          ],
+          [
+            10.0229,
+            45.1325
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 61,
+        "road_name": "Via Mediolanum-Cremona",
+        "source_city": "Mediolanum",
+        "target_city": "Cremona",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 80.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1895,
+            45.4642
+          ],
+          [
+            10.09125,
+            45.4514
+          ],
+          [
+            10.993,
+            45.4386
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": 62,
+        "road_name": "Via Gallica",
+        "source_city": "Mediolanum",
+        "target_city": "Verona",
+        "certainty": "certain",
+        "type": "via_publica",
+        "period": "Roman Imperial",
+        "length_km": 140.0,
+        "source": "Itiner-e (de Soto et al., 2025, CC BY 4.0)"
+      }
+    }
+  ]
+}
